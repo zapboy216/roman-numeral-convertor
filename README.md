@@ -6,9 +6,9 @@ my project for freecodecamp challenge
 
 ## Roman numerals are based on seven symbols and can be written using various combinations to    represent Arabic numerals.
 
-## M 	1000
-## CM 	900
-## D 	500
+## M 1000
+## CM 900
+## D 500
 ## CD 	400
 ## C 	100
 ## XC 	90
