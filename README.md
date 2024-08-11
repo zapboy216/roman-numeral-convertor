@@ -1,6 +1,6 @@
 # Roman Numeral Convertor
 
-my project for freecodecamp challenge
+
 
 ## simple .html,.css and .js file
 
